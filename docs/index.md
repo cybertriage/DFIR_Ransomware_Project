@@ -12,7 +12,7 @@ This site is dedicated to helping DFIR profesionals understand various ransomawr
 Add more here...
 
 
-Sponsored by: [Cyber Triage](https://www.cybertriage.com). 
+Sponsored by: [Cyber Triage](https://www.cybertriage.com) and BriMorLabs........
 
 ## Thank you to the contributors 
 
