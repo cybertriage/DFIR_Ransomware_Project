@@ -5,33 +5,25 @@ permalink: /families/blackcat/
 parent: Ransomware Families
 ---
 
-# Overview
-
-# Framework Answers
-
 | Category | Answer | References | 
 | ----------- | ----------- | | 
-|First Observed | January 2020 | [^1] |
-|Threat Actors Using It | | |
-| | | |
-|Operating Systems Affected | | |
-| | | |
-|Extension | | |
+|**Actors** | | |
+|First Observed | X 202x | [^1] |
+|Threat Actors | | |
+|**Environment** | | |
+|Platforms | | |
+|**Artifacts** | | |
+|Extensions | | |
 |Ransomware Notes | | |
+|Services It Disables | | |
 |Other Observables | | |
-|Unique EXE Signature | | |
-|Folders, extensions it encrypts | | |
-|Do decryptors exist publicly | | |
-| | | |
-|Exfiltration | | |
-| | | |
+|**Automation** | | |
 |Initial Access | |  |
 |Privilege Escalation | | |
-|Automation | | |
+|Human Operated | | |
+|Exfiltration | | |
 |Propagation | | |
 
-
-# References
 
 [^1]: URL HERE
 
