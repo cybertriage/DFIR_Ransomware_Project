@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Black Cat
-permalink: /blackcat/
-parent: Ransomware Types
-nav_order: "blackcat"
+permalink: /families/blackcat/
+parent: Ransomware Families
 ---
 
 # Overview

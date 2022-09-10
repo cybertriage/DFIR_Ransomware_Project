@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Lockbit 2
-permalink: /lockbit2/
-parent: Ransomware Types
-nav_order: "lockbit2"
+permalink: /families/lockbit2/
+parent: Ransomware Families
 ---
 
 # Overview
