@@ -1,9 +1,13 @@
 ---
 layout: page
-# TODO Add Title and uncomment out the following
+# TODO - uncomment out the following. Do not change the name.
 # parent: Ransomware Families
-# title: TODO
-# permalink: /families/TODO/
+
+# TODO - uncomment the below and change "Black Cat" to the new name. This will be shown in the menu.
+# title: Black Cat
+
+# TODO - uncomment below and change "blackcat" to the new url. It should be all lower case and no spaces
+# permalink: /families/blackcat/
 ---
 
 | Category | Answer | References | 
