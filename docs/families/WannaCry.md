@@ -30,18 +30,14 @@ permalink: /families/wannacry/
 |Propagation | Yes, worm-like | [^11] |
 
 
-[^1]: https://www.csoonline.com/article/3227906/wannacry-explained-a-perfect-ransomware-storm.html
-[^2]: https://www.cisa.gov/uscert/ncas/alerts/TA17-132A
-[^3]: https://www.csoonline.com/article/3227906/wannacry-explained-a-perfect-ransomware-storm.html
-[^4]: https://www.pcrisk.com/removal-guides/15883-wannacry-ransomware
-[^5]: https://fileinfo.com/extension/wcry#:~:text=A%20WCRY%20file%20is%20a,ransomware%20infection%20utilized%20by%20cybercriminals
-[^6]: https://www.secureworks.com/research/wcry-ransomware-analysis
-[^7]: https://fileinfo.com/extension/wcry#:~:text=A%20WCRY%20file%20is%20a,ransomware%20infection%20utilized%20by%20cybercriminals
-[^8]: https://www.pcrisk.com/removal-guides/15883-wannacry-ransomware
-[^9]: https://www.google.com/search?q=wannacry+ransomware+yara+rules
-[^10]: https://www.csoonline.com/article/3227906/wannacry-explained-a-perfect-ransomware-storm.html
-[^11]: https://www.malwarebytes.com/wannacry
-
-
-
-
+[^1]: URL https://www.csoonline.com/article/3227906/wannacry-explained-a-perfect-ransomware-storm.html
+[^2]: URL https://www.cisa.gov/uscert/ncas/alerts/TA17-132A
+[^3]: URL https://www.csoonline.com/article/3227906/wannacry-explained-a-perfect-ransomware-storm.html
+[^4]: URL https://www.pcrisk.com/removal-guides/15883-wannacry-ransomware
+[^5]: URL https://fileinfo.com/extension/wcry#:~:text=A%20WCRY%20file%20is%20a,ransomware%20infection%20utilized%20by%20cybercriminals
+[^6]: URL https://www.secureworks.com/research/wcry-ransomware-analysis
+[^7]: URL https://fileinfo.com/extension/wcry#:~:text=A%20WCRY%20file%20is%20a,ransomware%20infection%20utilized%20by%20cybercriminals
+[^8]: URL https://www.pcrisk.com/removal-guides/15883-wannacry-ransomware
+[^9]: URL https://www.google.com/search?q=wannacry+ransomware+yara+rules
+[^10]: URL https://www.csoonline.com/article/3227906/wannacry-explained-a-perfect-ransomware-storm.html
+[^11]: URL https://www.malwarebytes.com/wannacry
