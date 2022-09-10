@@ -27,7 +27,7 @@ permalink: /families/wannacry/
 |Privilege Escalation | No, not needed. Worm-like| |
 |Human Operated | No | |
 |Exfiltration | No | |
-|Propagation | Yes, worm-like | [^11] |
+|Propagation | Yes.<br>Worm-like | [^11] |
 
 
 [^1]: https://www.csoonline.com/article/3227906/wannacry-explained-a-perfect-ransomware-storm.html
