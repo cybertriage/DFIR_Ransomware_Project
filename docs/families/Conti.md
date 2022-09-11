@@ -22,7 +22,7 @@ permalink: /families/conti/
 |Privilege Escalation | No | [^4] |
 |Human Operated | Yes | |
 |Exfiltration | No | [^4] |
-|Propagation | Yes, sort of | [^8] |
+|Propagation | Sort of.<br>It will encrypt files accessible via SMB share, but will not launch itself on another system. | [^8] |
 
 
 [^1]: [https://www.csoonline.com/article/3638056/conti-ransomware-explained-and-why-its-one-of-the-most-aggressive-criminal-groups.html](https://www.csoonline.com/article/3638056/conti-ransomware-explained-and-why-its-one-of-the-most-aggressive-criminal-groups.html)
