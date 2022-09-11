@@ -9,11 +9,11 @@ permalink: /families/conti/
 | ----------- | ----------- | | 
 |**Actors** | | |
 |First Observed | late 2019 | [^1] |
-|Threat Actors | Conti Group (aka Wizard Spider aka TrickBot)| [^2], [^3] |
+|Threat Actors | Conti Group (aka Wizard Spider aka TrickBot)| [^2]<br>[^3] |
 |**Environment** | | |
 |Platforms | Windows | [^4] |
 |**Artifacts** | | |
-|Extensions | .conti<br>5 alpahnumeric characters (generated once per execution instance) | [^5], [^6], [^7]|
+|Extensions | .conti<br>5 alpahnumeric characters (generated once per execution instance) | [^5]<br>[^6]<br>[^7]|
 |Ransomware Notes | Readme.txt<br>CONTI.txt<br>R3ADME3.txt<br>CONTI_README.txt| [^5]<br>[^7] |
 |Services It Disables | | |
 |Other Observables | | |
