@@ -13,7 +13,7 @@ permalink: /families/wannacry/
 |**Environment** | | |
 |Platforms | Windows | [^3]|
 |**Artifacts** | | |
-|Extensions | .wannacry .wcry .Wnry .wncry | [^4], [^5], [^6], [^7]|
+|Extensions | .wannacry<br>.wcry<br>.Wnry<br>.wncry | [^4]<br>[^5]<br>[^6]<br>[^7]|
 |Ransomware Notes | info.hta | [^8] |
 |Services It Disables | | |
 |Other Observables | Various YARA rules in existence | [^9] |
