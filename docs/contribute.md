@@ -2,7 +2,7 @@
 layout: page
 title: Contributing
 permalink: /contribute/
-nav_order: "z_1"
+nav_order: "z_2"
 ---
 
 Help maintain this repo by doing XYZ
