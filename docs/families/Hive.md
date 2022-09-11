@@ -2,7 +2,7 @@
 layout: page
 parent: Ransomware Families
 title: Hive
-permalink: /families/Hive/
+permalink: /families/hive/
 ---
 
 | Category | Answer | References | 
