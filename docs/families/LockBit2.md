@@ -18,14 +18,14 @@ permalink: /families/lockbit2/
 Pop Up Windows (from .hta file)
 Restore-My-Files.txt | [^4] |
 |Services It Disables | | |
-|Other Observables | Deletes System, Application, and Security Event logs, and ransomware executable
+|Other Observables | Deletes System&comma; Application&comma; and Security Event logs&comma; and ransomware executable
 Adds itself to Run key in case encryption process is interrupted
-Deletes backups and kills processes, services, etc | [^6], [^7] |
+Deletes backups and kills processes&comma; services&comma; etc | [^6], [^7] |
 |**Automation** | | |
 |Initial Access | No | [^6] |
 |Privilege Escalation | Yes | [^6] |
 |Human Operated | No | |
-|Exfiltration | No (often uses StealBit, a seperate executable) | [^2] |
+|Exfiltration | No (often uses StealBit&comma; a seperate executable) | [^2] |
 |Propagation | Yes | [^9] |
 
 
