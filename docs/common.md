@@ -10,11 +10,11 @@ WARNING: This list is not extensive. An attacker could use any method to gain in
 
 
 # Common Initial Access Methods
-Buer Loader|[^1] <br>
-BazaLoader|[^1] <br>
-TrickBot|[^1] <br>
-ZLoader|[^1] <br>
-IcedID|[^1] <br>
+Buer Loader [^1]<br>
+BazaLoader [^1]<br>
+TrickBot [^1]<br>
+ZLoader [^1]<br>
+IcedID [^1]<br>
 
 
 # Common Privilege Escalation Methods
