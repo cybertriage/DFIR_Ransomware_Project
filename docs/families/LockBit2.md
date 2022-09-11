@@ -29,7 +29,7 @@ permalink: /families/lockbit2/
 [^2]: [https://www.mandiant.com/resources/unc2165-shifts-to-evade-sanctions](https://www.mandiant.com/resources/unc2165-shifts-to-evade-sanctions)
 [^3]: [https://minerva-labs.com/blog/lockbit-2.0-ransomware-surges-in-2022/](https://minerva-labs.com/blog/lockbit-2.0-ransomware-surges-in-2022/)
 [^4]: [https://www.pcrisk.com/removal-guides/21605-lockbit-2-0-ransomware](https://www.pcrisk.com/removal-guides/21605-lockbit-2-0-ransomware)
-[^5]: https://www.picussecurity.com/resource/lockbit-2.0-ransomware-ttps-used-in-emerging-ransomware-campaigns
+[^5]: [https://www.picussecurity.com/resource/lockbit-2.0-ransomware-ttps-used-in-emerging-ransomware-campaigns](https://www.picussecurity.com/resource/lockbit-2.0-ransomware-ttps-used-in-emerging-ransomware-campaigns)
 [^6]: [https://chuongdong.com/reverse%20engineering/2022/03/19/LockbitRansomware/](https://chuongdong.com/reverse%20engineering/2022/03/19/LockbitRansomware/)
 [^7]: [https://www.packetlabs.net/posts/lockbit-automated-ransomware/](https://www.packetlabs.net/posts/lockbit-automated-ransomware/)
 [^8]: [https://www.trendmicro.com/en_us/research/21/h/lockbit-resurfaces-with-version-2-0-ransomware-detections-in-chi.html](https://www.trendmicro.com/en_us/research/21/h/lockbit-resurfaces-with-version-2-0-ransomware-detections-in-chi.html)
