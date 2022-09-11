@@ -9,7 +9,7 @@ parent: Ransomware Families
 | ----------- | ----------- | | 
 |**Actors** | | |
 |First Observed | December 2021 | [^1] |
-|Threat Actors | MS DEV-0504, MS DEV-0237 | [^2]\,[^3] |
+|Threat Actors | MS DEV-0504, MS DEV-0237 | [^2]<br>[^3] |
 |**Environment** | | |
 |Platforms | Windows and ESXi | [^4] |
 |**Artifacts** | | |
