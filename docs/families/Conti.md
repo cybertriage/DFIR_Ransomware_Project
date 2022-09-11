@@ -26,10 +26,10 @@ permalink: /families/conti/
 
 
 [^1]: [https://www.csoonline.com/article/3638056/conti-ransomware-explained-and-why-its-one-of-the-most-aggressive-criminal-groups.html](https://www.csoonline.com/article/3638056/conti-ransomware-explained-and-why-its-one-of-the-most-aggressive-criminal-groups.html)
-[^2]: [wikipedia.org](https://en.wikipedia.org/wiki/Wizard_Spider)
-[^3]: URL https://www.theregister.com/2022/05/18/wizard-spider-ransomware-conti/
-[^4]: URL https://www.cisa.gov/uscert/ncas/alerts/aa21-265a
-[^5]: URL https://blog.malwarebytes.com/detections/ransom-conti/
-[^6]: URL https://labs.vipre.com/how-conti-ransomware-works-and-our-analysis/
-[^7]: URL https://www.coveware.com/conti-ransomware
-[^8]: URL https://thedfirreport.com/2021/09/13/bazarloader-to-conti-ransomware-in-32-hours/
+[^2]: [https://en.wikipedia.org/wiki/Wizard_Spider] (https://en.wikipedia.org/wiki/Wizard_Spider)
+[^3]: [https://www.theregister.com/2022/05/18/wizard-spider-ransomware-conti/](https://www.theregister.com/2022/05/18/wizard-spider-ransomware-conti/)
+[^4]: [https://www.cisa.gov/uscert/ncas/alerts/aa21-265a](https://www.cisa.gov/uscert/ncas/alerts/aa21-265a)
+[^5]: [https://blog.malwarebytes.com/detections/ransom-conti/](https://blog.malwarebytes.com/detections/ransom-conti/)
+[^6]: [https://labs.vipre.com/how-conti-ransomware-works-and-our-analysis/](https://labs.vipre.com/how-conti-ransomware-works-and-our-analysis/)
+[^7]: [https://www.coveware.com/conti-ransomware](https://www.coveware.com/conti-ransomware)
+[^8]: [https://thedfirreport.com/2021/09/13/bazarloader-to-conti-ransomware-in-32-hours/](https://thedfirreport.com/2021/09/13/bazarloader-to-conti-ransomware-in-32-hours/)
