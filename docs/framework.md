@@ -62,7 +62,8 @@ If it does automatically exfiltrate, what kinds of docs and how?<br>
 If not, link to page about some common exfil techniques.
 
 Propagation
-: Does the ransomware propagate itself through the network? If so, how.  If not, how are threat actors often propagating it (though this list is not exhaustive)? The goal is to help the responder look at a victim system and know where to look for clues about how the ransomware got there.<br><br>
+: Does the ransomware propagate itself through the network and launch on other systems? <br><br>
+If so, how. The goal is to help the responder look at a victim system and know where to look for clues about how the ransomware got there.<br>
 If not, link to page about some common techniques being observed.
 
 
