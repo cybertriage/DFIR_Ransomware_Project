@@ -5,14 +5,17 @@
 layout: home
 ---
 
-This site is dedicated to helping DFIR profesionals understand various ransomawre families. It focuses on the things that DFIR people care about though, which are different from the crypto and ....
+The **DFIR Ransomware Project** helps digital forensic examiners, SOC analysts, and incident responders understand various types of ransomware. Each type of ransomware is slightly different and some of those differences matter to an incident responder and others don’t.
+
+For example, if an incident responder is trying to figure out how the attacker got in:
+- The ransomware encryption algorithm details don’t matter. They may matter to data recovery people and malware researchers, but not the incident responder.
+- The builtin-propagation techniques do matter though.  They can help direct the responder to artifacts that may help show where else the attacker logged in.
+
+This project uses a [framework]({% link framework.md %}) with 12 categories. Various [ransomware families](/families.html) each have their own page and are evaluated against the framework. You can find the list of ransomware types on the left-hand menu.
+
+This is a community project that arose from a presentation by Brian Carrier (Cyber Triage) and Brian Moran (BriMor Labs) at [ResponderCon](https://respondercon.io).  See the [Contribution](/contribute.html) page for how to submit pull requests and help out.
 
 
-
-Add more here...
-
-
-Sponsored by: [Cyber Triage](https://www.cybertriage.com) and BriMorLabs........
 
 ## Thank you to the contributors 
 
@@ -24,4 +27,5 @@ Sponsored by: [Cyber Triage](https://www.cybertriage.com) and BriMorLabs........
 {% endfor %}
 </ul>
 
-ResponderCon....
+Sponsored by: [Cyber Triage](https://www.cybertriage.com) and BriMorLabs........
+
