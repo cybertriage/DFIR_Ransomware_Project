@@ -14,13 +14,9 @@ permalink: /families/lockbit2/
 |Platforms | Windows and Linux (ESXi) | [^3] |
 |**Artifacts** | | |
 |Extensions | .lockbit | [^4] |
-|Ransomware Notes | Desktop Wallpaper
-Pop Up Windows (from .hta file)
-Restore-My-Files.txt | [^4] |
+|Ransomware Notes | Desktop Wallpaper<br>Pop Up Windows (from .hta file)<br>Restore-My-Files.txt | [^4] |
 |Services It Disables | | |
-|Other Observables | Deletes System&comma; Application&comma; and Security Event logs&comma; and ransomware executable
-Adds itself to Run key in case encryption process is interrupted
-Deletes backups and kills processes&comma; services&comma; etc | [^6], [^7] |
+|Other Observables | Deletes System, Application, and Security Event logs, and ransomware executable<br>Adds itself to Run key in case encryption process is interrupted<br>Deletes backups and kills processes, services, etc | [^6]<br>[^7] |
 |**Automation** | | |
 |Initial Access | No | [^6] |
 |Privilege Escalation | Yes | [^6] |
