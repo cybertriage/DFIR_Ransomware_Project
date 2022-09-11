@@ -18,11 +18,11 @@ permalink: /families/wannacry/
 |Services It Disables | | |
 |Other Observables | Various YARA rules in existence | [^7] |
 |**Automation** | | |
-|Initial Access | Yes, EternalBlue| [^8] |
-|Privilege Escalation | No.<br>Not needed. Worm-like| |
-|Human Operated | No | |
+|Initial Access | Yes, via EternalBlue SMB exploit| [^8] |
+|Privilege Escalation | No.<br>Not needed because it encrypts only local files.| |
+|Human Operated | No.<br>Encrypts and spreads automatically. But does install DoublePulsar backdoor that could later be used by a human. |[^9][^10] |
 |Exfiltration | No | |
-|Propagation | Yes.<br>Worm-like | [^9] |
+|Propagation | Yes.<br>Exploits other computers using EternalBlue.| [^11] |
 
 
 [^1]: [https://www.csoonline.com/article/3227906/wannacry-explained-a-perfect-ransomware-storm.html](https://www.csoonline.com/article/3227906/wannacry-explained-a-perfect-ransomware-storm.html)
@@ -33,4 +33,7 @@ permalink: /families/wannacry/
 [^6]: [https://www.pcrisk.com/removal-guides/15883-wannacry-ransomware](https://www.pcrisk.com/removal-guides/15883-wannacry-ransomware)
 [^7]: [https://www.google.com/search?q=wannacry+ransomware+yara+rules](https://www.google.com/search?q=wannacry+ransomware+yara+rules)
 [^8]: [https://www.csoonline.com/article/3227906/wannacry-explained-a-perfect-ransomware-storm.html](https://www.csoonline.com/article/3227906/wannacry-explained-a-perfect-ransomware-storm.html)
-[^9]: [https://www.malwarebytes.com/wannacry](https://www.malwarebytes.com/wannacry)
+[^9]: [https://usa.kaspersky.com/resource-center/threats/ransomware-wannacry](https://usa.kaspersky.com/resource-center/threats/ransomware-wannacry)
+[^10]: [https://www.bitsight.com/blog/understanding-doublepulsar-wannacry-across-industries-is-key-to-protecting-supply-chain](https://www.bitsight.com/blog/understanding-doublepulsar-wannacry-across-industries-is-key-to-protecting-supply-chain)
+[^11]: [https://www.malwarebytes.com/wannacry](https://www.malwarebytes.com/wannacry)
+
