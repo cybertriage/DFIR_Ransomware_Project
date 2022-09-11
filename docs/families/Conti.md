@@ -25,8 +25,8 @@ permalink: /families/conti/
 |Propagation | Yes, sort of | [^8] |
 
 
-[^1]: URL (https://www.csoonline.com/article/3638056/conti-ransomware-explained-and-why-its-one-of-the-most-aggressive-criminal-groups.html)
-[^2]: URL https://en.wikipedia.org/wiki/Wizard_Spider
+[^1]: [https://www.csoonline.com/article/3638056/conti-ransomware-explained-and-why-its-one-of-the-most-aggressive-criminal-groups.html] (https://www.csoonline.com/article/3638056/conti-ransomware-explained-and-why-its-one-of-the-most-aggressive-criminal-groups.html)
+[^2]: [wikipedia.org] (https://en.wikipedia.org/wiki/Wizard_Spider)
 [^3]: URL https://www.theregister.com/2022/05/18/wizard-spider-ransomware-conti/
 [^4]: URL https://www.cisa.gov/uscert/ncas/alerts/aa21-265a
 [^5]: URL https://blog.malwarebytes.com/detections/ransom-conti/
