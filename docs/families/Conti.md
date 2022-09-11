@@ -13,8 +13,8 @@ permalink: /families/conti/
 |**Environment** | | |
 |Platforms | Windows | [^4] |
 |**Artifacts** | | |
-|Extensions | .conti, 5 alpahnumeric characters (generated once per execution instance) | [^5], [^6], [^7]|
-|Ransomware Notes | Readme.txt, CONTI.txt, R3ADME3.txt, CONTI_README.txt| [^5], [^7] |
+|Extensions | .conti<br>5 alpahnumeric characters (generated once per execution instance) | [^5], [^6], [^7]|
+|Ransomware Notes | Readme.txt<br>CONTI.txt<br>R3ADME3.txt<br>CONTI_README.txt| [^5]<br>[^7] |
 |Services It Disables | | |
 |Other Observables | | |
 |**Automation** | | |
