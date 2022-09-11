@@ -46,23 +46,22 @@ Other Observables
 
 Initial Access
 : Does the family have built-in methods for getting initial access into the network. If so, what are they? The goal is to help the responder know how they may have gotten initial access.  Most families rely on the attacker getting access in any variety of ways though (such as Phishing, RDP, etc.)<br><br>
-If yes, what are they?  If not, link to the page with some common techniques being observed.
+If yes, what are they?  
 
 Privilege Escalation
 : Can the family automatically get admin access if it is not initially running with sufficient access? If so, how? The goal is to help the responder search for  systems that were vulnerable to such an attack.<br><br>
-If yes, what are they?  If not, link to the page with some common techniques being observed.
+If yes, what are they?  
 
 Human Operated
 : Does the ransomware require a human to perform reconnaissance and identify target systems. Or, does it just need to be launched and will automatically encrypt what it can find. The goal is to help the responder know what else may need to exist for C2 infrastructure and how targeted the attack may have been. See the [Microsoft article](https://www.microsoft.com/security/blog/2020/03/05/human-operated-ransomware-attacks-a-preventable-disaster/), which used this term.<br><br>
-If no, Details on automation/built-in C2. If yes, link to page with some common techniques being observed.
+If no, Details on automation/built-in C2. 
 
 Exfiltration
 : Does the family automatically exfiltrate files?<br><br>
-If it does automatically exfiltrate, what kinds of docs and how?<br>
-If not, link to page about some common exfil techniques.
+If it does automatically exfiltrate, what kinds of docs and how?
 
 Propagation
-: Does the ransomware propagate itself through the network? If so, how.  If not, how are threat actors often propagating it (though this list is not exhaustive)? The goal is to help the responder look at a victim system and know where to look for clues about how the ransomware got there.<br><br>
-If not, link to page about some common techniques being observed.
+: Does the ransomware propagate itself through the network? If so, how.  
+The goal is to help the responder look at a victim system and know where to look for clues about how the ransomware got there.
 
 

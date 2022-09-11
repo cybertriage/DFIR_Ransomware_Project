@@ -17,6 +17,8 @@ WARNING: This list is not extensive. An attacker could use any method to gain in
 
 # Common Human Operated C2 Methods
 
+# Common Exfiltration Methods
+
 
 # Common Propagation Methods
 
