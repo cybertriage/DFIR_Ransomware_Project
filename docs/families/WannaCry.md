@@ -13,25 +13,26 @@ permalink: /families/wannacry/
 |**Environment** | | |
 |Platforms | Windows | [^3]|
 |**Artifacts** | | |
-|Extensions | .wannacry .wcry .Wnry .wncry | [^4], [^5], [^6]|
-|Ransomware Notes | info.hta | [^7] |
+|Extensions | .wannacry .wcry .Wnry .wncry | [^4], [^5], [^6], [^7]|
+|Ransomware Notes | info.hta | [^8] |
 |Services It Disables | | |
-|Other Observables | Various YARA rules in existence | [^8] |
+|Other Observables | Various YARA rules in existence | [^9] |
 |**Automation** | | |
-|Initial Access | Yes, EternalBlue| [^9] |
-|Privilege Escalation | No, not needed. Worm-like| |
+|Initial Access | Yes, EternalBlue| [^10] |
+|Privilege Escalation | No.<br>Not needed. Worm-like| |
 |Human Operated | No | |
 |Exfiltration | No | |
-|Propagation | Yes, worm-like | [^10] |
+|Propagation | Yes.<br>Worm-like | [^11] |
 
 
-[^1]: URL https://www.csoonline.com/article/3227906/wannacry-explained-a-perfect-ransomware-storm.html
-[^2]: URL https://www.cisa.gov/uscert/ncas/alerts/TA17-132A
-[^3]: URL https://www.csoonline.com/article/3227906/wannacry-explained-a-perfect-ransomware-storm.html
-[^4]: URL https://www.pcrisk.com/removal-guides/15883-wannacry-ransomware
-[^5]: URL https://fileinfo.com/extension/wcry#:~:text=A%20WCRY%20file%20is%20a,ransomware%20infection%20utilized%20by%20cybercriminals
-[^6]: URL https://www.secureworks.com/research/wcry-ransomware-analysis
-[^7]: URL https://www.pcrisk.com/removal-guides/15883-wannacry-ransomware
-[^8]: URL https://www.google.com/search?q=wannacry+ransomware+yara+rules
-[^9]: URL https://www.csoonline.com/article/3227906/wannacry-explained-a-perfect-ransomware-storm.html
-[^10]: URL https://www.malwarebytes.com/wannacry
+[^1]: https://www.csoonline.com/article/3227906/wannacry-explained-a-perfect-ransomware-storm.html
+[^2]: https://www.cisa.gov/uscert/ncas/alerts/TA17-132A
+[^3]: https://www.csoonline.com/article/3227906/wannacry-explained-a-perfect-ransomware-storm.html
+[^4]: https://www.pcrisk.com/removal-guides/15883-wannacry-ransomware
+[^5]: https://fileinfo.com/extension/wcry#:~:text=A%20WCRY%20file%20is%20a,ransomware%20infection%20utilized%20by%20cybercriminals
+[^6]: https://www.secureworks.com/research/wcry-ransomware-analysis
+[^7]: https://fileinfo.com/extension/wcry#:~:text=A%20WCRY%20file%20is%20a,ransomware%20infection%20utilized%20by%20cybercriminals
+[^8]: https://www.pcrisk.com/removal-guides/15883-wannacry-ransomware
+[^9]: https://www.google.com/search?q=wannacry+ransomware+yara+rules
+[^10]: https://www.csoonline.com/article/3227906/wannacry-explained-a-perfect-ransomware-storm.html
+[^11]: https://www.malwarebytes.com/wannacry
