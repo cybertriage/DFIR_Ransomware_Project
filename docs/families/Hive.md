@@ -16,7 +16,7 @@ permalink: /families/hive/
 |Extensions | .key, .hive | [^3] |
 |Ransomware Notes | How_to_decrypt.txt | [^4] |
 |Services It Disables | At least 34 | [^1] |
-|Other Observables | Leaves two .key files in C:\| [^1] |
+|Other Observables | Leaves two .key files in C:\\| [^1] |
 |**Automation** | | |
 |Initial Access | No |  |
 |Privilege Escalation | No | |
