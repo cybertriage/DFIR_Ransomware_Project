@@ -1,12 +1,7 @@
 ---
 layout: page
-# TODO - uncomment out the following. Do not change the name.
 parent: Ransomware Families
-
-# TODO - uncomment the below and change "Black Cat" to the new name. This will be shown in the menu.
 title: WannaCry
-
-# TODO - uncomment below and change "blackcat" to the new url. It should be all lower case and no spaces
 permalink: /families/wannacry/
 ---
 
@@ -18,16 +13,16 @@ permalink: /families/wannacry/
 |**Environment** | | |
 |Platforms | Windows | [^3]|
 |**Artifacts** | | |
-|Extensions | .wannacry .wcry .Wnry .wncry | [^4] [^5] [^6] [^7]|
-|Ransomware Notes | info.hta | [^8] |
+|Extensions | .wannacry .wcry .Wnry .wncry | [^4], [^5], [^6]|
+|Ransomware Notes | info.hta | [^7] |
 |Services It Disables | | |
-|Other Observables | Various YARA rules in existence | [^9] |
+|Other Observables | Various YARA rules in existence | [^8] |
 |**Automation** | | |
-|Initial Access | Yes, EternalBlue| [^10] |
+|Initial Access | Yes, EternalBlue| [^9] |
 |Privilege Escalation | No, not needed. Worm-like| |
 |Human Operated | No | |
 |Exfiltration | No | |
-|Propagation | Yes, worm-like | [^11] |
+|Propagation | Yes, worm-like | [^10] |
 
 
 [^1]: URL https://www.csoonline.com/article/3227906/wannacry-explained-a-perfect-ransomware-storm.html
@@ -36,8 +31,7 @@ permalink: /families/wannacry/
 [^4]: URL https://www.pcrisk.com/removal-guides/15883-wannacry-ransomware
 [^5]: URL https://fileinfo.com/extension/wcry#:~:text=A%20WCRY%20file%20is%20a,ransomware%20infection%20utilized%20by%20cybercriminals
 [^6]: URL https://www.secureworks.com/research/wcry-ransomware-analysis
-[^7]: URL https://fileinfo.com/extension/wcry#:~:text=A%20WCRY%20file%20is%20a,ransomware%20infection%20utilized%20by%20cybercriminals
-[^8]: URL https://www.pcrisk.com/removal-guides/15883-wannacry-ransomware
-[^9]: URL https://www.google.com/search?q=wannacry+ransomware+yara+rules
-[^10]: URL https://www.csoonline.com/article/3227906/wannacry-explained-a-perfect-ransomware-storm.html
-[^11]: URL https://www.malwarebytes.com/wannacry
+[^7]: URL https://www.pcrisk.com/removal-guides/15883-wannacry-ransomware
+[^8]: URL https://www.google.com/search?q=wannacry+ransomware+yara+rules
+[^9]: URL https://www.csoonline.com/article/3227906/wannacry-explained-a-perfect-ransomware-storm.html
+[^10]: URL https://www.malwarebytes.com/wannacry
