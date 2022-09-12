@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
@@ -27,5 +24,9 @@ This is a community project that arose from a presentation by Brian Carrier (Cyb
 {% endfor %}
 </ul>
 
-Sponsored by: [Cyber Triage](https://www.cybertriage.com) and BriMorLabs........
+# Sponsors
+This project was started by:
+
+![Cyber Triage]({{ site.baseurl }}/images/cybertriage.png})
+![BriMor Labs]({{ site.baseurl }}/images/cybertriage.png})
 
