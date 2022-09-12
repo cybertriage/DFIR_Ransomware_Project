@@ -14,6 +14,9 @@ This project is community led and you can get involved by submitting GitHub pull
 5. Ensure any changes you make have a corresponding reference. We want to give credit to the original authors. Multiple rows can refer to the same reference. 
 6. Make a pull request.
 
+# Expanding The Common Methods
+Same as above, except edit [docs/common.md](https://github.com/cybertriage/DFIR_Ransomware_Project/blob/main/docs/common.md). 
+
 
 # Adding a New Family
 1. Make a fork of the [repo](https://github.com/cybertriage/DFIR_Ransomware_Project).
