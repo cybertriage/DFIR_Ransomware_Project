@@ -8,39 +8,38 @@ The framework focuses on attributes of specific malware families, but many are h
 
 WARNING: This list is not extensive. An attacker could use any method to gain initial access, but you should be looking for the below items as part of your investigation since they are so common. 
 
+This page is a work in progress.
 
 # Common Initial Access Methods
-| Answer | References | 
-| ----------- | ----------- | |
-|Buer Loader|[^1]|
-|BazaLoader|[^1]|
-|TrickBot|[^1]|
-|ZLoader|[^1]|
-|IcedID|[^1]|
 
+- Phishing [^2]
+- Exploiting Public facing applications [^2]
+- VPN/RDP access [^2]
+- Trusted relationships [^2]
+- Initial Access Brokers [^3]
 
-# Common Privilege Escalation Methods
-Phishing [^2]<br>
-Exploiting Public facing applications [^2]<br>
-VPN/RDP access [^2]<br>
-Trusted relationships [^2]<br>
-Initial Access Brokers [^3]<br>
+# Common Downloader Methods
+
+- Buer Loader [^1]
+- BazaLoader [^1]
+- TrickBot [^1]
+- ZLoader [^1]
+- IcedID [^1]
 
 # Common Human Operated C2 Methods
-Saving output of various tools to text files<br>
-Launching batch/powershell script with those file(s) as arguments and/or input<br>
-Enumerating systems able to be seen within an environment<br>
+- Installing Cobalt Strike Beacons
+- Using Remote Desktop and stolen credentials
+- Installing other remote access software, such as AnyDesk
 
 # Common Exfiltration Methods
-File sharing domains (SendSpace, MEGA, etc)<br>
-FTP<br>
-SCP<br>
-Email attachments<br>
-
+- Using rclone or scp
+- Sending data to common file sharing domains (SendSpace, MEGA, etc)
+- Sending data to their private servers
 
 # Common Propagation Methods
-Copying to shared folder(s)<br>
-Run from system with full network oversight (such as Domain Controller or Exchange Server)<br>
+- Copy EXE to shared folder and execute via PsExec
+- Copy EXE to each computer and launch via RDP
+- Update Group Policy Object on Domain Controller to download and create scheduled task
 
 # Common Files To Be Encrypted
 Each malware family has its own set of rules to identify files to encrypt. The details are usually not important for DFIR, which is why this is not a category in the framework. But, some examples are included here for those who have not seen them before. Many focus on what files to NOT encrypt in order to make the machine still usable and able to pay the ransom. 
