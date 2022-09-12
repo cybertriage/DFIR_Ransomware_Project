@@ -26,6 +26,7 @@ This page is a work in progress.
 - ZLoader [^1]
 - IcedID [^1]
 
+
 # Common Human Operated C2 Methods
 - Installing Cobalt Strike Beacons
 - Using Remote Desktop and stolen credentials
