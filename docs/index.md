@@ -27,6 +27,6 @@ This is a community project that arose from a presentation by Brian Carrier (Cyb
 # Sponsors
 This project was started by:
 
-![Cyber Triage]({{ site.baseurl }}/images/cybertriage.png})
-![BriMor Labs]({{ site.baseurl }}/images/cybertriage.png})
+![Cyber Triage]({{ site.baseurl }}/images/cybertriage.png)
+![BriMor Labs]({{ site.baseurl }}/images/brimor.jpg)
 
