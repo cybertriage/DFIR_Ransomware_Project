@@ -23,8 +23,8 @@ title: DFIR Ransomware Project
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The community driven resource to share ransomware information and characteristics within the DFIR community.
-baseurl: "/DFIR_Ransomware_Project" # the subpath of your site, e.g. /blog
-url: "https://cybertriage.github.io/DFIR_Ransomware_Project" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://DFIRRansomware.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 #twitter_username: jekyllrb
 #github_username:  jekyll

@@ -22,7 +22,8 @@ permalink: /families/lockbit2/
 |Privilege Escalation | Yes | [^6] |
 |Human Operated | No | |
 |Exfiltration | No (often uses StealBit&comma; a seperate executable) | [^2] |
-|Propagation | Yes | [^9] |
+|Propagation | Yes.<br>Will use GPO and Scheduled Task when run on domain controller. | [^6] [^9] |
+
 
 
 [^1]: [https://unit42.paloaltonetworks.com/lockbit-2-ransomware/](https://unit42.paloaltonetworks.com/lockbit-2-ransomware/)

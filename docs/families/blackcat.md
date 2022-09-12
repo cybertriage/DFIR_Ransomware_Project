@@ -16,13 +16,17 @@ parent: Ransomware Families
 |Extensions | 7 characters in length, specified in config file | [^5] |
 |Ransomware Notes | RECOVER-[EXTENSION]-FILES.txt | [^5] |
 |Services It Disables | | |
-|Other Observables | Written in Rust. Each binary is custom to each target | [^5] |
+|Other Observables | | |
 |**Automation** | | |
 |Initial Access | No |  |
-|Privilege Escalation | No | |
+|Privilege Escalation | Yes. <br>Several techniques including Masquerade_PEB, UAC bypass via elevated COM interface, and CreateProcessWithLogonW exploit|[^5] |
 |Human Operated | Yes | |
 |Exfiltration | No | |
-|Propagation | Yes, sort of. Can spread via NetBIOS & PSExec, but only to one other system | [^4] |
+|Propagation | Yes. <br>Uses NetBIOS command to get list of computers and launches using PsExec and configured credentials. | [^4] |
+
+**Other Notes:**
+- Written in Rust. 
+- Each binary is custom to each target
 
 
 [^1]: [https://securityaffairs.co/wordpress/132339/malware/blackcat-ransomware-clear-web.html](https://securityaffairs.co/wordpress/132339/malware/blackcat-ransomware-clear-web.html)
