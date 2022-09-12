@@ -27,6 +27,6 @@ This is a community project that arose from a presentation by Brian Carrier ([Cy
 # Sponsors
 This project was started by:
 
-![Cyber Triage]({{ site.baseurl }}/images/cybertriage.png)
-![BriMor Labs]({{ site.baseurl }}/images/brimor.jpg)
+![Cyber Triage]({{ site.baseurl }}/images/cybertriage.png){: width="250" } &nbsp;&nbsp; ![BriMor Labs]({{ site.baseurl }}/images/brimor.jpg){: width="250" }
+
 
