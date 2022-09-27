@@ -27,6 +27,7 @@ parent: Ransomware Families
 **Other Notes:**
 - Written in Rust. 
 - Each binary is custom to each target
+- "Exmatter" exfiltration program updated in August 2022 to specifically limit type of files to exfiltrate to: PDF, DOC, DOCX, XLS, PNG, JPG, JPEG, TXT, BMP, RDP, SQL, MSG, PST, ZIP, RTF, IPT, and DWG. [^6]
 
 
 [^1]: [https://securityaffairs.co/wordpress/132339/malware/blackcat-ransomware-clear-web.html](https://securityaffairs.co/wordpress/132339/malware/blackcat-ransomware-clear-web.html)
@@ -34,3 +35,4 @@ parent: Ransomware Families
 [^3]: [https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/#DEV-0237](https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/#DEV-0237)
 [^4]: [https://www.microsoft.com/security/blog/2022/06/13/the-many-lives-of-blackcat-ransomware/](https://www.microsoft.com/security/blog/2022/06/13/the-many-lives-of-blackcat-ransomware/)
 [^5]: [https://www.varonis.com/blog/blackcat-ransomware](https://www.varonis.com/blog/blackcat-ransomware)
+[^6]: [https://www.bleepingcomputer.com/news/security/blackcat-ransomware-s-data-exfiltration-tool-gets-an-upgrade/](https://www.bleepingcomputer.com/news/security/blackcat-ransomware-s-data-exfiltration-tool-gets-an-upgrade/)
