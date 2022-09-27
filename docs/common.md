@@ -18,6 +18,9 @@ This page is a work in progress.
 - Trusted relationships [^2]
 - Initial Access Brokers [^3]
 
+# Common Reconnaissance Methods
+- Deploying and executing tools like Angry Scanner or Advanced Port Scannernto compile a list of the victim's IP addresses, including the list of server names to look for hints and also shared resources
+
 # Common Downloader Methods
 
 - Buer Loader [^1]
@@ -31,6 +34,10 @@ This page is a work in progress.
 - Installing Cobalt Strike Beacons
 - Using Remote Desktop and stolen credentials
 - Installing other remote access software, such as AnyDesk
+
+# Common Discovery Methods
+
+- Deplying and executing tools like ADfind, Bloodhound and Powertools to collects information about users, networks, and systems in the network
 
 # Common Exfiltration Methods
 - Using rclone or scp
