@@ -7,6 +7,12 @@ nav_order: "z_2"
 
 This project is community led and you can get involved by submitting GitHub pull requests with updates to current pages or entirely new pages. 
 
+# EXE vs TTP
+
+Make sure that data you add is about the ransomware executable and not about the attackers who use the executable. Many blog posts merge these concepts and it can be confusing to determine what happened because of the ransomware EXE versus the attacker decided to do something. We find the best blogs to use are ones that reverse engineer the EXE because they often ignore the attacker TTPs. 
+
+For example, it could be that all known attacks using Ransomware Family X use phishing as their initial attack vector. But, if phishing is not part of the EXE, then it doesn't go into this framework. After all, an attacker could decide tomorrow to use a server exploit to gain access and use the same ransomware EXE. 
+
 # Expanding an Existing Family
 1. Make a fork of the [repo](https://github.com/cybertriage/DFIR_Ransomware_Project).
 2. Make a branch (optional). 
