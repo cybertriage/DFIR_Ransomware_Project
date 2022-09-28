@@ -51,6 +51,11 @@ This page is a work in progress.
 # Common Propagation Methods
 - Copy EXE to shared folder and execute via PsExec
 - Copy EXE to each computer and launch via RDP
+- Copy EXE to each computer via remote access tools and execute it manually
+  - Splashtop
+  - Atera
+  - LogMeIn
+  - TeamViewer
 - Update Group Policy Object on Domain Controller to download and create scheduled task
 
 # Common Files To Be Encrypted
