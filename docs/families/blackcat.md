@@ -15,7 +15,7 @@ parent: Ransomware Families
 |**Artifacts** | | |
 |Extensions | 7 characters in length, specified in config file | [^5] |
 |Ransomware Notes | RECOVER-[EXTENSION]-FILES.txt | [^5] |
-|Services It Disables | | |
+|Services It Disables | TBD | |
 |Other Observables | Also named ALPHV and Noberus | [^6]|
 |**Automation** | | |
 |Initial Access | No |  |
