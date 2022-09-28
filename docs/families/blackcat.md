@@ -15,13 +15,13 @@ parent: Ransomware Families
 |**Artifacts** | | |
 |Extensions | 7 characters in length, specified in config file | [^5] |
 |Ransomware Notes | RECOVER-[EXTENSION]-FILES.txt | [^5] |
-|Services It Disables | TBD | |
+|Services It Disables | IIS, Antivirus, backup service, recovery tool in Windows boot menu and clear Windows event logs |[^8] |
 |Other Observables | Also named ALPHV and Noberus | [^6]|
 |**Automation** | | |
-|Initial Access | No |  |
+|Initial Access | Yes (exploiting Exchange servers, using remote access tools or getting compromised credentials within dark markets) |[^7] [^8]  |
 |Privilege Escalation | Yes. <br>Several techniques including Masquerade_PEB, UAC bypass via elevated COM interface, and CreateProcessWithLogonW exploit|[^5] |
 |Human Operated | Yes | |
-|Exfiltration | No | |
+|Exfiltration | Yes (through MegaSync, Filezilla and WinSCP) |[^7] |
 |Propagation | Yes. <br>Uses NetBIOS command to get list of computers and launches using PsExec and configured credentials. | [^4] |
 
 **Other Notes:**
@@ -36,3 +36,5 @@ parent: Ransomware Families
 [^4]: [https://www.microsoft.com/security/blog/2022/06/13/the-many-lives-of-blackcat-ransomware/](https://www.microsoft.com/security/blog/2022/06/13/the-many-lives-of-blackcat-ransomware/)
 [^5]: [https://www.varonis.com/blog/blackcat-ransomware](https://www.varonis.com/blog/blackcat-ransomware)
 [^6]: [https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/noberus-blackcat-ransomware-ttps](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/noberus-blackcat-ransomware-ttps)
+[^7][https://securityscorecard.com/blog/ttps-associated-with-new-version-of-blackcat-ransomware](https://securityscorecard.com/blog/ttps-associated-with-new-version-of-blackcat-ransomware)
+[^8][https://blog.group-ib.com/blackcat](https://blog.group-ib.com/blackcat]
