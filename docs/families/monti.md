@@ -9,13 +9,13 @@ permalink: /families/Monti/
 | ----------- | ----------- | | 
 |**Actors** | | |
 |First Observed | May/June 2022 | [^1] |
-|Threat Actors | TBD| |
+|Threat Actors | TBD | |
 |**Environment** | | |
 |Platforms | Windows | [^1] |
 |**Artifacts** | | |
 |Extensions | .PUUUK<br>.KFIKN | [^1]<br>[^2]|
 |Ransomware Notes | readme.txt| [^2] |
-|Services It Disables | | |
+|Services It Disables | TBD | |
 |Other Observables | YARA rules from Blackberry/Cylance| [^1]|
 |**Automation** | | |
 |Initial Access | No ||
