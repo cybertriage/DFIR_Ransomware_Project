@@ -18,6 +18,7 @@ This page is a work in progress.
 - Trusted relationships [^2]
 - Initial Access Brokers [^3]
 
+
 # Common Downloader Methods
 
 - Buer Loader [^1]
@@ -31,6 +32,16 @@ This page is a work in progress.
 - Installing Cobalt Strike Beacons
 - Using Remote Desktop and stolen credentials
 - Installing other remote access software, such as AnyDesk
+
+# Common Discovery Methods
+
+- Active Directory Discovery
+  - ADfind
+  - Bloodhound 
+- Powertools to collects information about users, networks, and systems in the network
+- Network Scanning to identify targets and shared resources
+  - Angry Scanner 
+  - Advanced Port Scanner 
 
 # Common Exfiltration Methods
 - Using rclone or scp

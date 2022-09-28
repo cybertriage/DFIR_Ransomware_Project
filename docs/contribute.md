@@ -24,7 +24,8 @@ Same as above, except edit [docs/common.md](https://github.com/cybertriage/DFIR_
 3. Make a copy of [docs/families/template.md](https://github.com/cybertriage/DFIR_Ransomware_Project/blob/main/docs/families/template.md)  and name it docs/families/FAMILY.md where you replace FAMILY with a unique name of the ransomware type.
 4. Edit the top part of the file to add the title and URL. There are TODO instructions for each step. You can delete the TODO lines.
 5. Fill in the table in the file and include a reference for each entry. Multiple rows can refer to the same reference. 
-6. Make a pull request.
+6. If you do not have data for one of the categories, then leave it as TBD. Use "None" or "No" instead of an empty entry. 
+7. Make a pull request.
 
 # Starting a Discussion
 If you'd like to ask about a value and not specifically edit it, then you can open a Github Issue.

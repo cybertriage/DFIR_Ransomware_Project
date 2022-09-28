@@ -14,20 +14,20 @@ layout: page
 | ----------- | ----------- | | 
 |**Actors** | | |
 |First Observed | X 202x | [^1] |
-|Threat Actors | | |
+|Threat Actors | TBD | |
 |**Environment** | | |
-|Platforms | | |
+|Platforms | TBD | |
 |**Artifacts** | | |
-|Extensions | | |
-|Ransomware Notes | | |
-|Services It Disables | | |
-|Other Observables | | |
+|Extensions | TBD | |
+|Ransomware Notes | TBD | |
+|Services It Disables | TBD | |
+|Other Observables | TBD | |
 |**Automation** | | |
-|Initial Access | |  |
-|Privilege Escalation | | |
-|Human Operated | | |
-|Exfiltration | | |
-|Propagation | | |
+|Initial Access | TBD |  |
+|Privilege Escalation | TBD | |
+|Human Operated | TBD | |
+|Exfiltration | TBD | |
+|Propagation | TBD | |
 
 
 [^1]: URL HERE
