@@ -14,15 +14,15 @@ permalink: /families/lockbit2/
 |Platforms | Windows and Linux (ESXi) | [^3] |
 |**Artifacts** | | |
 |Extensions | .lockbit | [^4] |
-|Ransomware Notes | Desktop Wallpaper<br>Pop Up Windows (from .hta file)<br>Restore-My-Files.txt | [^4] |
-|Services It Disables | | |
+|Ransomware Notes | Desktop Wallpaper<br>Pop Up Windows (from .hta file)<br>Restore-My-Files.txt | [^5] |
+|Services It Disables | Several MS SQL services, as well as changing Registry entries for AV/EDR solutions | [^6] |
 |Other Observables | Deletes System, Application, and Security Event logs, and ransomware executable<br>Adds itself to Run key in case encryption process is interrupted<br>Deletes backups and kills processes, services, etc | [^6]<br>[^7] |
 |**Automation** | | |
 |Initial Access | No | [^6] |
 |Privilege Escalation | Yes | [^6] |
 |Human Operated | No | |
-|Exfiltration | No (often uses StealBit&comma; a seperate executable) | [^2] |
-|Propagation | Yes.<br>Will use GPO and Scheduled Task when run on domain controller. | [^6] [^9] |
+|Exfiltration | No (often uses StealBit, a seperate executable) | [^2] |
+|Propagation | Yes.<br>Will use GPO and Scheduled Task when run on domain controller. | [^6]<br>[^9] |
 
 
 
