@@ -37,3 +37,4 @@ permalink: /families/wannacry/
 [^10]: [https://www.bitsight.com/blog/understanding-doublepulsar-wannacry-across-industries-is-key-to-protecting-supply-chain](https://www.bitsight.com/blog/understanding-doublepulsar-wannacry-across-industries-is-key-to-protecting-supply-chain)
 [^11]: [https://www.malwarebytes.com/wannacry](https://www.malwarebytes.com/wannacry)
 
+Please note, this page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
