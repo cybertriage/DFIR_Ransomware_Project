@@ -30,5 +30,5 @@ permalink: /families/hive/
 [^3]: [https://www.hhs.gov/sites/default/files/hive-ransomware-analyst-note-tlpwhite.pdf](https://www.hhs.gov/sites/default/files/hive-ransomware-analyst-note-tlpwhite.pdf)
 [^4]: [https://www.sentinelone.com/labs/hive-attacks-analysis-of-the-human-operated-ransomware-targeting-healthcare/](https://www.sentinelone.com/labs/hive-attacks-analysis-of-the-human-operated-ransomware-targeting-healthcare/)
 
-
+{: .highlight }
 This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
