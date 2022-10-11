@@ -33,3 +33,5 @@ permalink: /families/conti/
 [^6]: [https://labs.vipre.com/how-conti-ransomware-works-and-our-analysis/](https://labs.vipre.com/how-conti-ransomware-works-and-our-analysis/)
 [^7]: [https://www.coveware.com/conti-ransomware](https://www.coveware.com/conti-ransomware)
 [^8]: [https://thedfirreport.com/2021/09/13/bazarloader-to-conti-ransomware-in-32-hours/](https://thedfirreport.com/2021/09/13/bazarloader-to-conti-ransomware-in-32-hours/)
+
+Please note, this page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
