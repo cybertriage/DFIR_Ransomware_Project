@@ -16,7 +16,7 @@ permalink: /families/lockbit3/
 |Extensions      |HLJkNskOq, futRjC7nx         |   [^2]                      |
 |Ransomware Notes|Desktop Wallpaper, HLJkNskOq.Readme.txt or futRjC7nx.Readme.txt| [^3]               |
 |Services it Disables| Terminates a list of services with specific names like backup GxBlr, GxCIMgr,GxCVD, GxFWD, GxVss, memtas, mepocs, msexchange, sophos, sql, svc$, veeam, vs, etc..|[^3]|
-|Other Observables|Execution of a batch named 123.bat for disabling the Windows Defender and tampering the Windows Event Logs|[^3][^4]|
+|Other Observables|Execution of a batch named 123.bat for disabling the Windows Defender and tampering the Windows Event Logs|[^3]<br>[^4]|
 |**Automation**  |                              |                              |
 |Initial Access  |No                         |                           |
 |Privilege Escalation|Yes (bypassing user account control (UAC), duplicating the _Explorer.exe_ token for its own use and performing a 32-bit or 64-bit shellcode injection to elevate its token) |[^2]             |
