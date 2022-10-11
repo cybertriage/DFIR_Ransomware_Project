@@ -26,6 +26,6 @@ permalink: /families/Monti/
 
 
 [^1]: [https://blogs.blackberry.com/en/2022/09/the-curious-case-of-monti-ransomware-a-real-world-doppelganger](https://blogs.blackberry.com/en/2022/09/the-curious-case-of-monti-ransomware-a-real-world-doppelganger)
-[^2]: [https://www.cyclonis.com/monti-ransomware-new-conti-clone/] (https://www.cyclonis.com/monti-ransomware-new-conti-clone/)
+[^2]: [https://www.cyclonis.com/monti-ransomware-new-conti-clone/](https://www.cyclonis.com/monti-ransomware-new-conti-clone/)
 [^3]: [https://www.hivepro.com/monti-ransomware-infiltrates-networks-via-the-well-known-log4shell/](https://www.hivepro.com/monti-ransomware-infiltrates-networks-via-the-well-known-log4shell/)
 [^4]: [https://www.pcrisk.com/removal-guides/24770-monti-ransomware](https://www.pcrisk.com/removal-guides/24770-monti-ransomware)
