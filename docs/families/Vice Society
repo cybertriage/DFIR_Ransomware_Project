@@ -8,14 +8,14 @@
 |**Artifacts**   |                               |                             |
 |Extensions      |.v-society.XXX-XXX-XXX         |[^2]                         |
 |Ransomware Notes|!!! ALL YOUR FILES ARE ENCRYPTED !!!.TXT| [^1]               |
-|Services it Disables| Disabling PowerShell logging, Bypassing AMSI protection for PowerShell|[^4]|
+|Services it Disables| Not automated, but have been observed disabling PowerShell logging, Bypassing AMSI protection for PowerShell|[^4]|
 |Other Observables|Modify System Process, Registry Run Keys/Startup Folder, DLL Side-Loading, Scheduled Task/Job|[^3]|
 |**Automation**  |                              |                              |
 |Initial Access  |Yes (through compromised credentials by exploiting internet-facing applications)|[^3]|
 |Privilege Escalation|Yes (through [PrintNightmare vulnerability](https://socradar.io/vulnerability-round-up-socradars-curation-of-critical-vulnerabilities-for-2021/))|[^1]             |
 |Human Operated  |Yes|[^3]|
-|Propagation     |Yes (delivering payloads to shared location|[^4]|
-|Exfiltration    |Yes  (exfiltrate sensitive information over SMB (TCP/445) directly from a compromised domain controller|[^4]|
+|Propagation     |Not automated, but can deliver payloads to shared location|[^4]|
+|Exfiltration    |Not automated, but have been seen exfiltrating sensitive information over SMB (TCP/445) directly from a compromised domain controller|[^4]|
 
 [^1]: [https://socradar.io/dark-web-profile-vice-society//](https://socradar.io/dark-web-profile-vice-society/)
 [^2]: [https://blog.sekoia.io/vice-society-a-discreet-but-steady-double-extortion-ransomware-group/](https://blog.sekoia.io/vice-society-a-discreet-but-steady-double-extortion-ransomware-group/)
