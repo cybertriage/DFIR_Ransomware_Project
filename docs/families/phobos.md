@@ -28,6 +28,6 @@ permalink: /families/phobos/
 [^1]: [https://www.malwarebytes.com/blog/news/2019/07/a-deep-dive-into-phobos-ransomware](https://www.malwarebytes.com/blog/news/2019/07/a-deep-dive-into-phobos-ransomware)
 [^2]: [https://www.coveware.com/phobos-ransomware-payment](https://www.coveware.com/phobos-ransomware-payment)
 [^3]: [https://blog.360totalsecurity.com/en/new-variant-of-phobos-ransomware-is-coming/](https://blog.360totalsecurity.com/en/new-variant-of-phobos-ransomware-is-coming/)
-[^4]: [https://blogs.blackberry.com/en/2021/09/threat-thursday-phobos-ransomware](https://blogs.blackberry.com/en/2021/09/threat-thursday-phobos-ransomware]
+[^4]: [https://blogs.blackberry.com/en/2021/09/threat-thursday-phobos-ransomware](https://blogs.blackberry.com/en/2021/09/threat-thursday-phobos-ransomware)
 [^5]: [https://heimdalsecurity.com/blog/phobos-ransomware/](https://heimdalsecurity.com/blog/phobos-ransomware/)
 [^6]: [https://www.bleepingcomputer.com/forums/t/688649/phobos-ransomware-id-idemailphobos-adame-help-support/](https://www.bleepingcomputer.com/forums/t/688649/phobos-ransomware-id-idemailphobos-adame-help-support/)
