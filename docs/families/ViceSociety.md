@@ -19,5 +19,7 @@
 
 [^1]: [https://socradar.io/dark-web-profile-vice-society//](https://socradar.io/dark-web-profile-vice-society/)
 [^2]: [https://blog.sekoia.io/vice-society-a-discreet-but-steady-double-extortion-ransomware-group/](https://blog.sekoia.io/vice-society-a-discreet-but-steady-double-extortion-ransomware-group/)
-[^3]:[https://www.cisa.gov/uscert/ncas/alerts/aa22-249a](https://www.cisa.gov/uscert/ncas/alerts/aa22-249a)
-[^4]:[https://blog.talosintelligence.com/2021/08/vice-society-ransomware-printnightmare.html](https://blog.talosintelligence.com/2021/08/vice-society-ransomware-printnightmare.html)
+[^3]: [https://www.cisa.gov/uscert/ncas/alerts/aa22-249a](https://www.cisa.gov/uscert/ncas/alerts/aa22-249a)
+[^4]: [https://blog.talosintelligence.com/2021/08/vice-society-ransomware-printnightmare.html](https://blog.talosintelligence.com/2021/08/vice-society-ransomware-printnightmare.html)
+
+Please note, this page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
