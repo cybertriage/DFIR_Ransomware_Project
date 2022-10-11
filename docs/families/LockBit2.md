@@ -35,3 +35,5 @@ permalink: /families/lockbit2/
 [^7]: [https://www.packetlabs.net/posts/lockbit-automated-ransomware/](https://www.packetlabs.net/posts/lockbit-automated-ransomware/)
 [^8]: [https://www.trendmicro.com/en_us/research/21/h/lockbit-resurfaces-with-version-2-0-ransomware-detections-in-chi.html](https://www.trendmicro.com/en_us/research/21/h/lockbit-resurfaces-with-version-2-0-ransomware-detections-in-chi.html)
 [^9]: [https://usa.kaspersky.com/blog/ransomware-group-policies/25107/](https://usa.kaspersky.com/blog/ransomware-group-policies/25107/)
+
+Please note, this page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
