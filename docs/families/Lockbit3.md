@@ -1,3 +1,10 @@
+---
+layout: page
+parent: Ransomware Families
+title: LockBit 3.0
+permalink: /families/lockbit3/
+---
+
 |Category        |Details                         |References                  |
 |----------------|-------------------------------|-----------------------------|
 |**Actors**      |                               |                             |
