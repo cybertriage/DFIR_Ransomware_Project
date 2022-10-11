@@ -20,7 +20,7 @@ permalink: /families/wannacry/
 |**Automation** | | |
 |Initial Access | Yes, via EternalBlue SMB exploit| [^8] |
 |Privilege Escalation | No.<br>Not needed because it encrypts only local files.| |
-|Human Operated | No.<br>Encrypts and spreads automatically. But does install DoublePulsar backdoor that could later be used by a human. |[^9][^10] |
+|Human Operated | No.<br>Encrypts and spreads automatically. But does install DoublePulsar backdoor that could later be used by a human. |[^9]<br>[^10] |
 |Exfiltration | No | |
 |Propagation | Yes.<br>Exploits other computers using EternalBlue.| [^11] |
 
