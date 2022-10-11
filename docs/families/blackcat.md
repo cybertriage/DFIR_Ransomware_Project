@@ -36,5 +36,5 @@ parent: Ransomware Families
 [^4]: [https://www.microsoft.com/security/blog/2022/06/13/the-many-lives-of-blackcat-ransomware/](https://www.microsoft.com/security/blog/2022/06/13/the-many-lives-of-blackcat-ransomware/)
 [^5]: [https://www.varonis.com/blog/blackcat-ransomware](https://www.varonis.com/blog/blackcat-ransomware)
 [^6]: [https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/noberus-blackcat-ransomware-ttps](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/noberus-blackcat-ransomware-ttps)
-[^7][https://securityscorecard.com/blog/ttps-associated-with-new-version-of-blackcat-ransomware](https://securityscorecard.com/blog/ttps-associated-with-new-version-of-blackcat-ransomware)
-[^8][https://blog.group-ib.com/blackcat](https://blog.group-ib.com/blackcat]
+[^7]: [https://securityscorecard.com/blog/ttps-associated-with-new-version-of-blackcat-ransomware](https://securityscorecard.com/blog/ttps-associated-with-new-version-of-blackcat-ransomware)
+[^8]: [https://blog.group-ib.com/blackcat](https://blog.group-ib.com/blackcat]
