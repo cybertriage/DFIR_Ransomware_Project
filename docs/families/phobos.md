@@ -13,17 +13,16 @@ permalink: /families/phobos/
 |**Environment** | | |
 |Platforms | Windows | [^4] |
 |**Artifacts** | | |
-|Extensions | .phobos (Typically an alphanumeric ID and an email address will prepend the file extension), .acute, id[XXXXXXXX-2275].[helprecover@foxmail.com].help | [^1] [^2] [^3] |
-|Ransomware Notes | info.txt, info.hta| [^4] |
-|Services It Disables | msftesql.exe, sqlagent.exe, sqlbrowser.exe, sqlservr.exe, sqlwriter.exe, oracle.exe, ocssd.exe, dbsnmp.exe, synctime.exe, agntsvc.exe,
-mydesktopqos.exe, isqlplussvc.exe, xfssvccon.exe, mydesktopservice.exe, ocautoupds.exe, agntsvc.exe, agntsvc.exe, agntsvc.exe, encsvc.exe, firefoxconfig.exe, tbirdconfig.exe, ocomm.exe, mysqld.exe, mysqld-nt.exe, mysqld-opt.exe, dbeng50.exe, sqbcoreservice.exe, excel.exe, infopath.exe, msaccess.exe, mspub.exe, onenote.exe, outlook.exe, powerpnt.exe, steam.exe, thebat.exe, thebat64.exe, thunderbird.exe, visio.exe, winword.exe, wordpad.exe | [^1] |
-|Other Observables | TBD | |
+|Extensions | .phobos (Typically an alphanumeric ID and an email address will prepend the file extension), .acute, id[XXXXXXXX-2275].[helprecover@foxmail.com].help | [^1]<br>[^2]<br>[^3] |
+|Ransomware Notes | info.txt, info.hta<br><br>Phobos.hta, Encrypted.txt, Data.hta, Info.hta, info.txt| [^4]<br><br> [^6]|
+|Services It Disables | At least 41 named processes<br><br>Local Windows Firewall | [^1]<br><br>[^4] |
+|Other Observables | Skips at least 342 file extensions  | [^1]|
 |**Automation** | | |
-|Initial Access | TBD |  |
+|Initial Access | Not Automated |  |
 |Privilege Escalation | Yes | [^3] |
-|Human Operated | TBD | |
-|Exfiltration | Yes | [^3] |
-|Propagation | Yes (via network connection) | [^3] [^4] |
+|Human Operated | Yes. Requires a manual click on UAC prompt | [^4]|
+|Exfiltration | Not Automated | [^3] |
+|Propagation | Partially, will encrypt and enumerate network shares | [^3]<br>[^5] |
 
 
 [^1]: [https://www.malwarebytes.com/blog/news/2019/07/a-deep-dive-into-phobos-ransomware](https://www.malwarebytes.com/blog/news/2019/07/a-deep-dive-into-phobos-ransomware)
@@ -31,3 +30,4 @@ mydesktopqos.exe, isqlplussvc.exe, xfssvccon.exe, mydesktopservice.exe, ocautoup
 [^3]:[https://blog.360totalsecurity.com/en/new-variant-of-phobos-ransomware-is-coming/](https://blog.360totalsecurity.com/en/new-variant-of-phobos-ransomware-is-coming/)
 [^4]:[https://blogs.blackberry.com/en/2021/09/threat-thursday-phobos-ransomware](https://blogs.blackberry.com/en/2021/09/threat-thursday-phobos-ransomware]
 [^5]:[https://heimdalsecurity.com/blog/phobos-ransomware/](https://heimdalsecurity.com/blog/phobos-ransomware/)
+[^6]: [https://www.bleepingcomputer.com/forums/t/688649/phobos-ransomware-id-idemailphobos-adame-help-support/](https://www.bleepingcomputer.com/forums/t/688649/phobos-ransomware-id-idemailphobos-adame-help-support/)
