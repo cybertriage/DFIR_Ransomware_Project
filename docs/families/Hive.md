@@ -2,6 +2,8 @@
 layout: page
 parent: Ransomware Families
 title: Hive
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
 permalink: /families/hive/
 ---
 
