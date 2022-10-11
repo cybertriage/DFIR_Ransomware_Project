@@ -29,4 +29,4 @@ permalink: /families/blackbasta/
 [^2]: [https://unit42.paloaltonetworks.com/threat-assessment-black-basta-ransomware/](https://unit42.paloaltonetworks.com/threat-assessment-black-basta-ransomware/)
 
 
-
+Please note, this page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
