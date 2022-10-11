@@ -31,3 +31,6 @@ permalink: /families/phobos/
 [^4]: [https://blogs.blackberry.com/en/2021/09/threat-thursday-phobos-ransomware](https://blogs.blackberry.com/en/2021/09/threat-thursday-phobos-ransomware)
 [^5]: [https://heimdalsecurity.com/blog/phobos-ransomware/](https://heimdalsecurity.com/blog/phobos-ransomware/)
 [^6]: [https://www.bleepingcomputer.com/forums/t/688649/phobos-ransomware-id-idemailphobos-adame-help-support/](https://www.bleepingcomputer.com/forums/t/688649/phobos-ransomware-id-idemailphobos-adame-help-support/)
+
+
+Please note, this page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
