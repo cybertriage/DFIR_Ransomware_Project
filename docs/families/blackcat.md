@@ -38,3 +38,5 @@ parent: Ransomware Families
 [^6]: [https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/noberus-blackcat-ransomware-ttps](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/noberus-blackcat-ransomware-ttps)
 [^7]: [https://securityscorecard.com/blog/ttps-associated-with-new-version-of-blackcat-ransomware](https://securityscorecard.com/blog/ttps-associated-with-new-version-of-blackcat-ransomware)
 [^8]: [https://blog.group-ib.com/blackcat](https://blog.group-ib.com/blackcat)
+
+Please note, this page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
