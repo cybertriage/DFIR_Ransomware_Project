@@ -19,5 +19,7 @@
 
 [^1]: [https://research.nccgroup.com/2022/08/19/back-in-black-unlocking-a-lockbit-3-0-ransomware-attack/](https://research.nccgroup.com/2022/08/19/back-in-black-unlocking-a-lockbit-3-0-ransomware-attack/)
 [^2]: [https://www.trendmicro.com/en_us/research/22/g/lockbit-ransomware-group-augments-its-latest-variant--lockbit-3-.html/](https://www.trendmicro.com/en_us/research/22/g/lockbit-ransomware-group-augments-its-latest-variant--lockbit-3-.html/)
-[^3]:[https://www.sentinelone.com/labs/lockbit-3-0-update-unpicking-the-ransomwares-latest-anti-analysis-and-evasion-techniques/](https://www.sentinelone.com/labs/lockbit-3-0-update-unpicking-the-ransomwares-latest-anti-analysis-and-evasion-techniques/)
-[^4]:[https://resources.infosecinstitute.com/topic/lockbit-ransomware-analysis/](https://resources.infosecinstitute.com/topic/lockbit-ransomware-analysis/)
+[^3]: [https://www.sentinelone.com/labs/lockbit-3-0-update-unpicking-the-ransomwares-latest-anti-analysis-and-evasion-techniques/](https://www.sentinelone.com/labs/lockbit-3-0-update-unpicking-the-ransomwares-latest-anti-analysis-and-evasion-techniques/)
+[^4]: [https://resources.infosecinstitute.com/topic/lockbit-ransomware-analysis/](https://resources.infosecinstitute.com/topic/lockbit-ransomware-analysis/)
+
+Please note, this page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
