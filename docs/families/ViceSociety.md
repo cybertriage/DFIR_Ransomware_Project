@@ -19,9 +19,9 @@ permalink: /families/vicesociety/
 |Services it Disables| Not automated, but have been observed disabling PowerShell logging, Bypassing AMSI protection for PowerShell|[^4]|
 |Other Observables|Modify System Process, Registry Run Keys/Startup Folder, DLL Side-Loading, Scheduled Task/Job|[^3]|
 |**Automation**  |                              |                              |
-|Initial Access  |Yes (through compromised credentials by exploiting internet-facing applications)|[^3]|
+|Initial Access  |Not automated. Typically gain access through compromised credentials by exploiting internet-facing applications)|[^3]|
 |Privilege Escalation|Yes (through [PrintNightmare vulnerability](https://socradar.io/vulnerability-round-up-socradars-curation-of-critical-vulnerabilities-for-2021/))|[^1]             |
-|Human Operated  |Yes|[^3]|
+|Human Operated  |Yes, not automated|[^3]|
 |Propagation     |Not automated, but can deliver payloads to shared location|[^4]|
 |Exfiltration    |Not automated, but have been seen exfiltrating sensitive information over SMB (TCP/445) directly from a compromised domain controller|[^4]|
 
