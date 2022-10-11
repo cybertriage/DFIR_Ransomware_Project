@@ -1,4 +1,12 @@
-|Category        |Details                         |References                  |
+---
+layout: page
+parent: Ransomware Families
+title: Vice Society
+permalink: /families/vicesociety/
+---
+
+
+|Category        |Answer                         |References                  |
 |----------------|-------------------------------|-----------------------------|
 |**Actors**      |                               |                             |
 |First Observed  |Summer 2021                    |[^1]                         |
