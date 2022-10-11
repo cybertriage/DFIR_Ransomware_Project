@@ -15,13 +15,13 @@ parent: Ransomware Families
 |**Artifacts** | | |
 |Extensions | 7 characters in length, specified in config file | [^5] |
 |Ransomware Notes | RECOVER-[EXTENSION]-FILES.txt | [^5] |
-|Services It Disables | IIS, Antivirus, backup service, recovery tool in Windows boot menu and clear Windows event logs |[^8] |
+|Services It Disables | IIS, Antivirus, backup service, recovery tool in Windows boot menu and clear Windows event logs | [^8] |
 |Other Observables | Also named ALPHV and Noberus | [^6]|
 |**Automation** | | |
-|Initial Access | Yes (exploiting Exchange servers, using remote access tools or getting compromised credentials within dark markets) |[^7] [^8]  |
+|Initial Access | Yes (exploiting Exchange servers, using remote access tools or getting compromised credentials within dark markets) | [^7]<br>[^8]  |
 |Privilege Escalation | Yes. <br>Several techniques including Masquerade_PEB, UAC bypass via elevated COM interface, and CreateProcessWithLogonW exploit|[^5] |
 |Human Operated | Yes | |
-|Exfiltration | Yes (through MegaSync, Filezilla and WinSCP) |[^7] |
+|Exfiltration | Yes (through MegaSync, Filezilla and WinSCP) | [^7] |
 |Propagation | Yes. <br>Uses NetBIOS command to get list of computers and launches using PsExec and configured credentials. | [^4] |
 
 **Other Notes:**
