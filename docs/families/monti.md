@@ -29,3 +29,6 @@ permalink: /families/Monti/
 [^2]: [https://www.cyclonis.com/monti-ransomware-new-conti-clone/](https://www.cyclonis.com/monti-ransomware-new-conti-clone/)
 [^3]: [https://www.hivepro.com/monti-ransomware-infiltrates-networks-via-the-well-known-log4shell/](https://www.hivepro.com/monti-ransomware-infiltrates-networks-via-the-well-known-log4shell/)
 [^4]: [https://www.pcrisk.com/removal-guides/24770-monti-ransomware](https://www.pcrisk.com/removal-guides/24770-monti-ransomware)
+
+
+Please note, this page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
