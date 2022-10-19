@@ -31,7 +31,7 @@ Same as above, except edit [docs/common.md](https://github.com/cybertriage/DFIR_
 4. Select "Add File", and add a new file under the [docs/families/](https://github.com/cybertriage/DFIR_Ransomware_Project/blob/main/docs/families/) folder named "yourransomware.md" (ie "conti.md")
 5. Edit the top part of the file to add the title and URL. There are TODO instructions for each step. You can delete the TODO lines.
 6. Fill in the table in the file and include a reference for each entry. Multiple rows can refer to the same reference. 
-7. If you do not have data for one of the categories, then leave it as TBD. Use "None" or "No" instead of an empty entry. 
+7. If you do not have data for one of the categories, then leave it as TBD. Use "TBD", "None" or "No" instead of an empty entry. 
 8. Make a pull request.
 
 # Starting a Discussion
