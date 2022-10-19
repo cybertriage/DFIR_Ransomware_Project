@@ -16,16 +16,12 @@ permalink: /families/avoslocker/
 |Extensions | .avos<br>.avos2 | [^2]|
 |Ransomware Notes | GET_YOUR_FILES_BACK.txt | [^2]|
 |Services It Disables | Terminates at least 22 named processes | [^3]|
-|Other Observables | RaaS payments are only accepted through Monero<br><br><br>In order to execute on safe mode, it adds a RunOnce registry entry under autostart. Further investigation revealed multiple ways AvosLocker can be executed via the RunOnce registry, which are the following:
-<br> - Direct execution of the ransomware payload
-<br> - Execute a PowerShell script that will download and execute the ransomware payload
-<br> -Execute a PowerShell script that will decode and execute the ransomware payload from a disguised .jpg file.
- |[^4]<br><br><br>[^3] |
+|Other Observables | RaaS payments are only accepted through Monero<br><br><br>In order to execute on safe mode, it adds a RunOnce registry entry under autostart. Further investigation revealed multiple ways AvosLocker can be executed via the RunOnce registry, which are the following:<br> - Direct execution of the ransomware payload<br> - Execute a PowerShell script that will download and execute the ransomware payload<br> -Execute a PowerShell script that will decode and execute the ransomware payload from a disguised .jpg file.|[^4]<br><br><br>[^3] |
 |**Automation** | | |
 |Initial Access | Not Automated | [^3] |
 |Privilege Escalation | Not automated | |
 |Human Operated | Requires some level of human interaction | [^6] |
-|Exfiltration | Not automated. Adversaries have been observed using rclone | [^5]|
+|Exfiltration | Not automated. Adversaries have been observed using rclone | [^5] |
 |Propagation | Scans for hidden and/or network shares and attempts to mount/encrypt them, but does not automatically propagte to other desktops/servers | [^6] |
 
 
