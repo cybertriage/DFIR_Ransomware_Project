@@ -28,3 +28,6 @@ permalink: /families/venus/
 [^1]: [https://www.bleepingcomputer.com/news/security/venus-ransomware-targets-publicly-exposed-remote-desktop-services/](https://www.bleepingcomputer.com/news/security/venus-ransomware-targets-publicly-exposed-remote-desktop-services/)
 [^2]: [https://id-ransomware.blogspot.com/2021/05/venus-ransomware.html](https://id-ransomware.blogspot.com/2021/05/venus-ransomware.html)
 [^3]: [https://www.pcrisk.com/removal-guides/20896-venus-ransomware](https://www.pcrisk.com/removal-guides/20896-venus-ransomware)
+
+
+Please note, this page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
