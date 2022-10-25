@@ -20,7 +20,7 @@ permalink: /families/hive/
 |**Automation** | | |
 |Initial Access | No |  |
 |Privilege Escalation | No | |
-|Human Operated | No | |
+|Human Operated | Yes | |
 |Exfiltration | No | |
 |Propagation | No | |
 
