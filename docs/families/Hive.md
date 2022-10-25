@@ -18,11 +18,11 @@ permalink: /families/hive/
 |Services It Disables | At least 34 | [^1] |
 |Other Observables | Leaves two .key files in C:\\ | [^1] |
 |**Automation** | | |
-|Initial Access | No |  |
-|Privilege Escalation | No | |
-|Human Operated | Yes | |
-|Exfiltration | No | |
-|Propagation | No | |
+|Automatically Gains Access | No |  |
+|Automatically Escalates Privileges | No | |
+|Requires Human Interaction | Yes | |
+|Automatic Exfiltration | No | |
+|Automatic Propagation | No | |
 
 
 [^1]: [https://www.microsoft.com/security/blog/2022/07/05/hive-ransomware-gets-upgrades-in-rust/](https://www.microsoft.com/security/blog/2022/07/05/hive-ransomware-gets-upgrades-in-rust/)
