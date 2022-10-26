@@ -18,11 +18,11 @@ permalink: /families/phobos/
 |Services It Disables | At least 41 named processes<br><br>Local Windows Firewall | [^1]<br><br>[^4] |
 |Other Observables | Skips at least 342 file extensions  | [^1]|
 |**Automation** | | |
-|Initial Access | Not Automated |  |
-|Privilege Escalation | Yes | [^3] |
-|Human Operated | Yes. Requires a manual click on UAC prompt | [^4]|
-|Exfiltration | Not Automated | [^3] |
-|Propagation | Partially, will encrypt and enumerate network shares | [^3]<br>[^5] |
+|Automatically Gains Accesss | Not Automated |  |
+|Automatically Escalates Privileges | Yes | [^3] |
+|Requires Human Interaction | Yes. Requires a manual click on UAC prompt | [^4]|
+|Automatic Exfiltration | Not Automated | [^3] |
+|Automatic Propagation | Partially, will encrypt and enumerate network shares | [^3]<br>[^5] |
 
 
 [^1]: [https://www.malwarebytes.com/blog/news/2019/07/a-deep-dive-into-phobos-ransomware](https://www.malwarebytes.com/blog/news/2019/07/a-deep-dive-into-phobos-ransomware)
