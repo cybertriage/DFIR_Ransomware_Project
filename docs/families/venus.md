@@ -18,11 +18,11 @@ permalink: /families/venus/
 |Services It Disables | Disables at least 39 named services | [^2] |
 |Other Observables | TBD | |
 |**Automation** | | |
-|Initial Access | Not automated, typically accessed via RDP | [^1] |
-|Privilege Escalation | Not automated | |
-|Human Operated | Not automated | |
-|Exfiltration | Not automated | |
-|Propagation | Not automated| |
+|Automatically Gains Access | Not automated, typically accessed via RDP | [^1] |
+|Automatically Escalates Privileges | Not automated | |
+|Requires Human Interaction | Not automated | |
+|Automatic Exfiltration | Not automated | |
+|Automatic Propagation | Not automated| |
 
 
 [^1]: [https://www.bleepingcomputer.com/news/security/venus-ransomware-targets-publicly-exposed-remote-desktop-services/](https://www.bleepingcomputer.com/news/security/venus-ransomware-targets-publicly-exposed-remote-desktop-services/)
