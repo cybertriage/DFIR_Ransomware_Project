@@ -18,11 +18,11 @@ permalink: /families/wannacry/
 |Services It Disables | | |
 |Other Observables | Various YARA rules in existence | [^7] |
 |**Automation** | | |
-|Initial Access | Yes, via EternalBlue SMB exploit| [^8] |
-|Privilege Escalation | No.<br>Not needed because it encrypts only local files.| |
-|Human Operated | No.<br>Encrypts and spreads automatically. But does install DoublePulsar backdoor that could later be used by a human. |[^9]<br>[^10] |
-|Exfiltration | No | |
-|Propagation | Yes.<br>Exploits other computers using EternalBlue.| [^11] |
+|Automatically Gains Access | Yes, via EternalBlue SMB exploit| [^8] |
+|Automatically Escalates Privileges | No.<br>Not needed because it encrypts only local files.| |
+|Requires Human Interaction | No.<br>Encrypts and spreads automatically. But does install DoublePulsar backdoor that could later be used by a human. |[^9]<br>[^10] |
+|Automatic Exfiltration | No | |
+|Automatic Propagation | Yes.<br>Exploits other computers using EternalBlue.| [^11] |
 
 
 [^1]: [https://www.csoonline.com/article/3227906/wannacry-explained-a-perfect-ransomware-storm.html](https://www.csoonline.com/article/3227906/wannacry-explained-a-perfect-ransomware-storm.html)
