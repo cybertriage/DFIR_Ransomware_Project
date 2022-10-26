@@ -18,11 +18,11 @@ permalink: /families/lockbit2/
 |Services It Disables | Several MS SQL services, as well as changing Registry entries for AV/EDR solutions | [^6] |
 |Other Observables | Deletes System, Application, and Security Event logs, and ransomware executable<br>Adds itself to Run key in case encryption process is interrupted<br>Deletes backups and kills processes, services, etc | [^6]<br>[^7] |
 |**Automation** | | |
-|Initial Access | No | [^6] |
-|Privilege Escalation | Yes | [^6] |
-|Human Operated | No | |
-|Exfiltration | No (often uses StealBit, a seperate executable) | [^2] |
-|Propagation | Yes.<br>Will use GPO and Scheduled Task when run on domain controller. | [^6]<br>[^9] |
+|Automatically Gains Access | No | [^6] |
+|Automatically Escalates Privileges | Yes | [^6] |
+|Requires Human Interaction | No | |
+|Automatic Exfiltration | No (often uses StealBit, a seperate executable) | [^2] |
+|Automatic Propagation | Yes.<br>Will use GPO and Scheduled Task when run on domain controller. | [^6]<br>[^9] |
 
 
 
