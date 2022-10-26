@@ -18,11 +18,11 @@ permalink: /families/conti/
 |Services It Disables | | |
 |Other Observables | | |
 |**Automation** | | |
-|Initial Access | No | [^4] |
-|Privilege Escalation | No | [^4] |
-|Human Operated | Yes | |
-|Exfiltration | No | [^4] |
-|Propagation | Sort of.<br>It will encrypt files accessible via SMB share, but will not launch itself on another system. | [^8] |
+|Automatically Gains Access	 | No | [^4] |
+|Automatically Escalates Privileges | No | [^4] |
+|Requires Human Interaction | Yes | |
+|Automatic Exfiltration | No | [^4] |
+|Automatic Propagation | Sort of.<br>It will encrypt files accessible via SMB share, but will not launch itself on another system. | [^8] |
 
 
 [^1]: [https://www.csoonline.com/article/3638056/conti-ransomware-explained-and-why-its-one-of-the-most-aggressive-criminal-groups.html](https://www.csoonline.com/article/3638056/conti-ransomware-explained-and-why-its-one-of-the-most-aggressive-criminal-groups.html)
