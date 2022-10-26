@@ -23,11 +23,11 @@ layout: page
 |Services It Disables | TBD | |
 |Other Observables | TBD | |
 |**Automation** | | |
-|Initial Access | TBD |  |
-|Privilege Escalation | TBD | |
-|Human Operated | TBD | |
-|Exfiltration | TBD | |
-|Propagation | TBD | |
+|Automatically Gains Access	 | TBD |  |
+|Automatically Escalates Privileges | TBD | |
+|Requires Human Interaction | TBD | |
+|Automatic Exfiltration | TBD | |
+|Automatic Propagation | TBD | |
 
 
 [^1]: URL HERE
