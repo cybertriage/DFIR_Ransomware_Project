@@ -19,11 +19,11 @@ permalink: /families/vicesociety/
 |Services it Disables| Not automated, but have been observed disabling PowerShell logging, Bypassing AMSI protection for PowerShell|[^4]|
 |Other Observables|Modify System Process, Registry Run Keys/Startup Folder, DLL Side-Loading, Scheduled Task/Job|[^3]|
 |**Automation**  |                              |                              |
-|Automatically Gains Access |Not automated. Typically gain access through compromised credentials by exploiting internet-facing applications)|[^3]|
+|Automatically Gains Access |No. Typically gain access through compromised credentials by exploiting internet-facing applications)|[^3]|
 |Automatically Escalates Privileges|Yes (through [PrintNightmare vulnerability](https://socradar.io/vulnerability-round-up-socradars-curation-of-critical-vulnerabilities-for-2021/))|[^1]             |
-|Requires Human Interaction  |Yes, not automated|[^3]|
-|Automatic Exfiltration	    |Not automated, but have been seen exfiltrating sensitive information over SMB (TCP/445) directly from a compromised domain controller|[^4]|
-|Automatic Propagation     |Not automated, but can deliver payloads to shared location|[^4]|
+|Requires Human Interaction  |Yes|[^3]|
+|Automatic Exfiltration	    |No. Have been seen exfiltrating sensitive information over SMB (TCP/445) directly from a compromised domain controller|[^4]|
+|Automatic Propagation     |No. Can deliver payloads to shared location|[^4]|
 
 [^1]: [https://socradar.io/dark-web-profile-vice-society//](https://socradar.io/dark-web-profile-vice-society/)
 [^2]: [https://blog.sekoia.io/vice-society-a-discreet-but-steady-double-extortion-ransomware-group/](https://blog.sekoia.io/vice-society-a-discreet-but-steady-double-extortion-ransomware-group/)
