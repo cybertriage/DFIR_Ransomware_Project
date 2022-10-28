@@ -18,11 +18,11 @@ permalink: /families/blackbasta/
 |Services It Disables | TBD | |
 |Other Observables | TBD | |
 |**Automation** | | |
-|Automatically Gains Access | Not automated. Uses phishing/Quakbot  |  [^2]|
-|Automatically Escalates Privileges | Not automated. Black Basta exploits the PrintNightmare vulnerability (CVE-2021-34527) | [^1] |
-|Requires Human Interaction | Not Automated | |
-|Automatic Exfiltration | Not automated. Uses Cobeacon to exfiltrate the stolen data on an established command-and-control (C&C) server. It uses Rclone to exfiltrate data from compromised systems. | [^1]|
-|Automatic Propagation | Not Automated | [^1]|
+|Automatically Gains Access | No. Uses phishing/Quakbot  |  [^2]|
+|Automatically Escalates Privileges | No. Black Basta exploits the PrintNightmare vulnerability (CVE-2021-34527) | [^1] |
+|Requires Human Interaction | No | |
+|Automatic Exfiltration | No. Uses Cobeacon to exfiltrate the stolen data on an established command-and-control (C&C) server. It uses Rclone to exfiltrate data from compromised systems. | [^1]|
+|Automatic Propagation | No | [^1]|
 
 
 [^1]: [https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-blackbasta](https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-blackbasta)

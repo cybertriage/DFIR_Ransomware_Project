@@ -18,10 +18,10 @@ permalink: /families/phobos/
 |Services It Disables | At least 41 named processes<br><br>Local Windows Firewall | [^1]<br><br>[^4] |
 |Other Observables | Skips at least 342 file extensions  | [^1]|
 |**Automation** | | |
-|Automatically Gains Accesss | Not Automated |  |
+|Automatically Gains Accesss | No |  |
 |Automatically Escalates Privileges | Yes | [^3] |
 |Requires Human Interaction | Yes. Requires a manual click on UAC prompt | [^4]|
-|Automatic Exfiltration | Not Automated | [^3] |
+|Automatic Exfiltration | No | [^3] |
 |Automatic Propagation | Partially, will encrypt and enumerate network shares | [^3]<br>[^5] |
 
 

@@ -21,8 +21,8 @@ permalink: /families/Monti/
 |Automatically Gains Access | No ||
 |Automatically Escalates Privileges | No ||
 |Requires Human Interaction | Yes ||
-|Automatic Exfiltration | Not automated<br>Evidence of limited manual exfiltration of data<br>The ransom note claims “We've downloaded a pack of your internal data and are ready to publish it on our news website if you do not respond.”  | [^1]<br>[^4]|
-|Automatic Propagation | Not automated ||
+|Automatic Exfiltration | No<br>Evidence of limited manual exfiltration of data<br>The ransom note claims “We've downloaded a pack of your internal data and are ready to publish it on our news website if you do not respond.”  | [^1]<br>[^4]|
+|Automatic Propagation | No ||
 
 
 [^1]: [https://blogs.blackberry.com/en/2022/09/the-curious-case-of-monti-ransomware-a-real-world-doppelganger](https://blogs.blackberry.com/en/2022/09/the-curious-case-of-monti-ransomware-a-real-world-doppelganger)

@@ -19,10 +19,10 @@ permalink: /families/venus/
 |Other Observables | TBD | |
 |**Automation** | | |
 |Automatically Gains Access | Not automated, typically accessed via RDP | [^1] |
-|Automatically Escalates Privileges | Not automated | |
-|Requires Human Interaction | Not automated | |
-|Automatic Exfiltration | Not automated | |
-|Automatic Propagation | Not automated| |
+|Automatically Escalates Privileges | No | |
+|Requires Human Interaction | No | |
+|Automatic Exfiltration | No | |
+|Automatic Propagation | No | |
 
 
 [^1]: [https://www.bleepingcomputer.com/news/security/venus-ransomware-targets-publicly-exposed-remote-desktop-services/](https://www.bleepingcomputer.com/news/security/venus-ransomware-targets-publicly-exposed-remote-desktop-services/)

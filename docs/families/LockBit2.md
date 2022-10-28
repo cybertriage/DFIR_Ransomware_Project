@@ -21,7 +21,7 @@ permalink: /families/lockbit2/
 |Automatically Gains Access | No | [^6] |
 |Automatically Escalates Privileges | Yes | [^6] |
 |Requires Human Interaction | No | |
-|Automatic Exfiltration | No (often uses StealBit, a seperate executable) | [^2] |
+|Automatic Exfiltration | No. Often uses StealBit, a seperate executable | [^2] |
 |Automatic Propagation | Yes.<br>Will use GPO and Scheduled Task when run on domain controller. | [^6]<br>[^9] |
 
 
