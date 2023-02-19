@@ -10,7 +10,7 @@ layout: page
 # permalink: /families/blackcat/
 ---
 
-| Category | Answer | References | 
+| Category | Details | References | 
 | ----------- | ----------- | | 
 |**Actors** | | |
 |First Observed | X 202x | [^1] |
@@ -30,7 +30,7 @@ layout: page
 |Automatic Propagation | TBD | |
 
 
-[^1]: URL HERE
+[^1]: [URL] (URL)
 
 
 
