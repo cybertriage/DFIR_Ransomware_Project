@@ -5,7 +5,7 @@ title: Hive
 permalink: /families/hive/
 ---
 
-| Category | Answer | References | 
+| Category | Details | References | 
 | ----------- | ----------- | | 
 |**Actors** | | |
 |First Observed | June 2021 | [^1] |
