@@ -5,7 +5,7 @@ title: Venus
 permalink: /families/venus/
 ---
 
-| Category | Answer | References | 
+| Category | Details | References | 
 | ----------- | ----------- | | 
 |**Actors** | | |
 |First Observed | May 2021. Possible new variant/group active since August 2022 | [^1] |
