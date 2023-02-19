@@ -5,7 +5,7 @@ title: WannaCry
 permalink: /families/wannacry/
 ---
 
-| Category | Answer | References | 
+| Category | Details | References | 
 | ----------- | ----------- | | 
 |**Actors** | | |
 |First Observed | May 2017 | [^1] |
