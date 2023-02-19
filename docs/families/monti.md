@@ -5,7 +5,7 @@ title: Monti
 permalink: /families/Monti/
 ---
 
-| Category | Answer | References | 
+| Category | Details | References | 
 | ----------- | ----------- | | 
 |**Actors** | | |
 |First Observed | May/June 2022 | [^1] |
