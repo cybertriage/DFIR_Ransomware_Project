@@ -5,7 +5,7 @@ title: Conti
 permalink: /families/conti/
 ---
 
-| Category | Answer | References | 
+| Category | Details | References | 
 | ----------- | ----------- | | 
 |**Actors** | | |
 |First Observed | late 2019 | [^1] |
