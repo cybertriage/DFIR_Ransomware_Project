@@ -5,7 +5,7 @@ title: Phobos
 permalink: /families/phobos/
 ---
 
-| Category | Answer | References | 
+| Category | Details | References | 
 | ----------- | ----------- | | 
 |**Actors** | | |
 |First Observed | December 2018 | [^3] |
