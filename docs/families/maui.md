@@ -5,7 +5,7 @@ title: Maui
 permalink: /families/maui/
 ---
 
-| Category | Answer | References | 
+| Category | Details | References | 
 | ----------- | ----------- | | 
 |**Actors** | | |
 |First Observed | May 2021 | [^1] |
