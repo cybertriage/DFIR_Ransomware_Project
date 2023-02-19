@@ -5,7 +5,7 @@ title: Black Basta
 permalink: /families/blackbasta/
 ---
 
-| Category | Answer | References | 
+| Category | Details | References | 
 | ----------- | ----------- | | 
 |**Actors** | | |
 |First Observed | April 2022 | [^1] |
