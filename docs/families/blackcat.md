@@ -5,7 +5,7 @@ permalink: /families/blackcat/
 parent: Ransomware Families
 ---
 
-| Category | Answer | References | 
+| Category | Details | References | 
 | ----------- | ----------- | | 
 |**Actors** | | |
 |First Observed | December 2021 | [^1] |
