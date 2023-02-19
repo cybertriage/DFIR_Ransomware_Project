@@ -5,7 +5,7 @@ title: LockBit 2.0
 permalink: /families/lockbit2/
 ---
 
-| Category | Answer | References | 
+| Category | Details | References | 
 | ----------- | ----------- | | 
 |**Actors** | | |
 |First Observed | mid-late 2021 | [^1] |
