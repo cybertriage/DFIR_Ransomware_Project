@@ -6,7 +6,7 @@ permalink: /families/vicesociety/
 ---
 
 
-|Category        |Answer                         |References                  |
+|Category        |Details                        |References                  |
 |----------------|-------------------------------|-----------------------------|
 |**Actors**      |                               |                             |
 |First Observed  |Summer 2021                    |[^1]                         |
