@@ -16,7 +16,7 @@ permalink: /families/maui/
 |Extensions | TBD | |
 |Ransomware Notes | TBD | |
 |Services It Disables | TBD | |
-|Other Observables maui.evd: RSA private key generated at runtime, encrypted using hard-coded
+|Other Observables | maui.evd: RSA private key generated at runtime, encrypted using hard-coded
 public key<br><br>
 maui.key: RSA public key generated at runtime, encoded using XOR key generated
 from hard drive information<br><br>
