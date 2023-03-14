@@ -17,10 +17,8 @@ permalink: /families/maui/
 |Ransomware Notes | TBD | |
 |Services It Disables | TBD | |
 |Other Observables | maui.evd: RSA private key generated at runtime, encrypted using hard-coded
-public key<br><br>
-maui.key: RSA public key generated at runtime, encoded using XOR key generated
-from hard drive information<br><br>
-maui.log: Log file containing output console output from execution<br> | [^3] |
+public key<br><br>maui.key: RSA public key generated at runtime, encoded using XOR key generated
+from hard drive information<br><br>maui.log: Log file containing output console output from execution<br> | [^3] |
 |**Automation** | | |
 |Automatically Gains Access	 | TBD |  |
 |Automatically Escalates Privileges | TBD | |
