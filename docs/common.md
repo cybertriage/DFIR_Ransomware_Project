@@ -68,7 +68,7 @@ The PaloAlto report[^4] for BlackCat reports these files and folders to skip:
 Folders to Skip
 : system volume information, intel, $windows.~ws, application data, $recycle.bin, mozilla, $windows.~bt, public, msocache, windows, default, all users, tor browser, programdata, boot, config.msi, google, perflogs, appdata, windows.old
 
-Fles to Skip
+Files to Skip
 : desktop.ini, autorun.inf, ntldr, bootsect.bak, thumbs.db, boot.ini, ntuser.dat, iconcache.db, bootfont.bin, ntuser.ini, ntuser.dat.log
 
 Extensions to Skip
@@ -81,7 +81,7 @@ Chuong Dong's report [^5] for LockBit 2 reports these files and folders that are
 Folders to Skip
 : $Windows.~bt, intel, msocache, $recycle.bin, $windows.~ws, tor browser, boot, windows nt, msbuild, microsoft, all users, system volume information, perflog, google, application data, windows, windows.old, appdata, mozilla, microsoft.net, microsoft shared, internet explorer, common files, opera, windows journal, windows defender, windowsapp, windowspowershell, usoshared, windows security, windows photo viewer
 
-Fles to Skip
+Files to Skip
 : ntldr, ntuser.dat.log, bootsect.bak, autorun.inf, thumbs.db, iconcache.db, restore-my-files.txt
 
 Extensions to Skip
